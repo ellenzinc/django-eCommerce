@@ -1,0 +1,5 @@
+MODULES_MANAGER_V2
+__init__|/Users/hainingwang/Dropbox/websites/django-eCommerce/ecomstore/ecomstore/__init__.py
+settings|/Users/hainingwang/Dropbox/websites/django-eCommerce/ecomstore/ecomstore/settings.py
+urls|/Users/hainingwang/Dropbox/websites/django-eCommerce/ecomstore/ecomstore/urls.py
+wsgi|/Users/hainingwang/Dropbox/websites/django-eCommerce/ecomstore/ecomstore/wsgi.py
